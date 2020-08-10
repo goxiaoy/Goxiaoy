@@ -1,4 +1,9 @@
-### Hi there 👋
+### ✨Full-stack developer. Looking for a good job 
+
+🎯Targeting: 
+- 🌱.net core, node.js, python
+- 🌱react, flutter, unity 3D, electron
+- 🌱devops, docker, k8s, microservice
 
 <!--
 **Goxiaoy/Goxiaoy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
