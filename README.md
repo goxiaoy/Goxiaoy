@@ -1,4 +1,4 @@
-### ✨Full-stack developer. Looking for a good job 
+### ✨Full-stack developer.
 
 🎯Targeting: 
 - 🌱.net core, node.js, python
