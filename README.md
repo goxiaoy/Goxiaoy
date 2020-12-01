@@ -3,7 +3,7 @@
 ### ✨Full-stack developer.
 
 🎯Targeting: 
-- 🌱.net core, node.js, python
+- 🌱.net core, node.js, python, go
 - 🌱react, flutter, unity 3D, electron
 - 🌱devops, docker, k8s, microservice
 
