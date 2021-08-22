@@ -3,9 +3,9 @@
 ### ✨Full-stack developer.
 
 🎯Targeting: 
-- 🌱.net core, node.js, python, go
-- 🌱react, flutter, unity 3D, electron
-- 🌱devops, docker, k8s, microservice
+- 🌱 go, python, .net core, node.js
+- 🌱 flutter,react, , unity 3D, electron
+- 🌱 devops, docker, k8s, microservice
 
 <!--
 **Goxiaoy/Goxiaoy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
