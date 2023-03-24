@@ -1,12 +1,25 @@
-<img  src="https://github-readme-stats.vercel.app/api?username=goxiaoy&show_icons=true&icon_color=0366d6&bg_color=ffffff" alt="github stats">
+<picture>
+<source 
+  srcset="https://github-readme-stats.vercel.app/api?username=goxiaoy&show_icons=true&theme=dark"
+  media="(prefers-color-scheme: dark)"
+/>
+<source
+  srcset="https://github-readme-stats.vercel.app/api?username=goxiaoy&show_icons=true"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img src="https://github-readme-stats.vercel.app/api?username=goxiaoy&show_icons=true" />
+</picture>
 
 ### ✨Full-stack developer.
 
-🎯Targeting: 
+🎯 Working: 
 - 🌱 go, python, .net, node.js
 - 🌱 flutter, react, unity 3D, electron
 - 🌱 devops, docker, k8s, microservice
+
+📫 Learning:
 - 🌱 blockchain, web3, smart contract, solidity
+- 🌱 rust, key-value database
 
 <!--
 **Goxiaoy/Goxiaoy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
